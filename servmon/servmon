@@ -1,0 +1,2 @@
+export CLASSPATH=$CLASSPATH:/home/ktipmedia/servmon/:/home/ktipmedia/servmon/mysql-connector-java-5.1.40.jar
+java SimpleJdbc
